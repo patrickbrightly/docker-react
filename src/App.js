@@ -8,11 +8,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DUPLICATING: MOIRA!
+          This is just a test
         </p>
         <p className="primary">
-          {`Surrender to my will O=<~~~o~~~>=O`}
+          {`123456789`}
           </p>
+        <a href="patrickbright.dev">learn react</a>
       </header>
     </div>
   );

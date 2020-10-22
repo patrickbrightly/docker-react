@@ -10,10 +10,8 @@ function App() {
         <p>
           This is just a test
         </p>
-        <p className="primary">
-          {`123456789`}
-          </p>
-        <a href="patrickbright.dev">learn react</a>
+        <a href="https://www.patrickbright.dev">learn react</a>
+        <p>This is a feature branch addition!</p>
       </header>
     </div>
   );
